@@ -10,6 +10,9 @@ After some research, i found [SinricPro](https://sinric.pro/es-index.html). They
 [Here](https://github.com/sinricpro/esp8266-esp32-sdk) you can find some examples and other info.
 
 ## Flashing Sonoff Dual R2
+
+DO NOT CONNECT THE DEVICE TO MAINS AC POWER WHILE THE COVER IS OPEN AND CIRCUIT BOARD IS EXPOSED!!!
+
 Serial interface is available at the bottom left end of the sonoff dual PCB in the image below(header J2). Also, you can see the connection 
 between the sonoff and the FTDI. Is necessary connect GPIO0(BUTTON 0) and GND during power up to put the chip in programming mode (in header J1).
 
