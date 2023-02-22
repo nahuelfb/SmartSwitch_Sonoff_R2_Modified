@@ -1,3 +1,5 @@
+// This file is the MultiSwitch_advance example, and was modified for a sonoff dual R2
+
 /*
  * ADVANCED example for: how to use up to N SinricPro Switch devices on one ESP module 
  *                       to control N relays and N flipSwitches for manually control:
